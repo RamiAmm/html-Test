@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+    color: darkblue;
+}
+.header{
+    font-size: 3rem;
+    background-color: red;
+    text-align-last: center;
+}
+
